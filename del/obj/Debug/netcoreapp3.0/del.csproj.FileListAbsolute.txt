@@ -1,0 +1,11 @@
+C:\del2\del\del\bin\Debug\netcoreapp3.0\del.exe
+C:\del2\del\del\bin\Debug\netcoreapp3.0\del.deps.json
+C:\del2\del\del\bin\Debug\netcoreapp3.0\del.runtimeconfig.json
+C:\del2\del\del\bin\Debug\netcoreapp3.0\del.runtimeconfig.dev.json
+C:\del2\del\del\bin\Debug\netcoreapp3.0\del.dll
+C:\del2\del\del\bin\Debug\netcoreapp3.0\del.pdb
+C:\del2\del\del\obj\Debug\netcoreapp3.0\del.csprojAssemblyReference.cache
+C:\del2\del\del\obj\Debug\netcoreapp3.0\del.AssemblyInfoInputs.cache
+C:\del2\del\del\obj\Debug\netcoreapp3.0\del.AssemblyInfo.cs
+C:\del2\del\del\obj\Debug\netcoreapp3.0\del.dll
+C:\del2\del\del\obj\Debug\netcoreapp3.0\del.pdb
